@@ -1,0 +1,44 @@
+body
+{
+  width:58%;
+  margin: 5% auto;
+  border: 20px solid #bdc3c7;
+  border-radius: 2px;
+  padding:2%;
+  font-family:"source sans pro";
+
+}
+.date
+{
+    text-transform:uppercase;
+    font-size: 17px;
+    letter-spacing:5px;
+    color:#3498db;
+}
+h1
+{
+
+  color:#2c3e50;
+  text-transform:capitalize;
+  font-size: 35px;
+  font-weight: 900;
+}
+.border
+{
+
+  border-left-width:4px;
+  border-left-style:solid;
+  border-left-color:#bdc3c7;
+  padding:8px;
+
+}
+.size
+{
+  font-size: 18px;
+  font-weight:600;
+}
+.size::first-letter
+{
+  text-transform:capitalize;
+
+}
